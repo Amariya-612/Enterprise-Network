@@ -78,15 +78,15 @@ Nine access switches connect the end-user PCs to the enterprise network.
 The network uses nine VLANs:
 
 ```text
-VLAN 10
-VLAN 20
-VLAN 30
-VLAN 40
-VLAN 50
-VLAN 60
-VLAN 70
-VLAN 80
-VLAN 90
+VLAN 10  → SALES
+VLAN 20  → HR
+VLAN 30  → FINANCE
+VLAN 40  → IT
+VLAN 50  → MARKETING
+VLAN 60  → SERVER
+VLAN 70  → ACADEMIC
+VLAN 80  → ADMINISTRATION
+VLAN 90  → MANAGEMENT
 ```
 
 Each VLAN has its own subnet and default gateway.
